@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/darya1624.github.io/hwr.7/static/css/main.fc1ab68c.css",
-    "main.js": "/darya1624.github.io/hwr.7/static/js/main.572c47aa.js",
-    "index.html": "/darya1624.github.io/hwr.7/index.html",
-    "main.fc1ab68c.css.map": "/darya1624.github.io/hwr.7/static/css/main.fc1ab68c.css.map",
-    "main.572c47aa.js.map": "/darya1624.github.io/hwr.7/static/js/main.572c47aa.js.map"
+    "main.css": "/hwr.7/static/css/main.fc1ab68c.css",
+    "main.js": "/hwr.7/static/js/main.572c47aa.js",
+    "index.html": "/hwr.7/index.html",
+    "main.fc1ab68c.css.map": "/hwr.7/static/css/main.fc1ab68c.css.map",
+    "main.572c47aa.js.map": "/hwr.7/static/js/main.572c47aa.js.map"
   },
   "entrypoints": [
     "static/css/main.fc1ab68c.css",
